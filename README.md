@@ -1,1 +1,5 @@
-# cis246lab3
+# CIS246 Lab 3
+
+# Christopher Parks
+
+# November 17,2020
